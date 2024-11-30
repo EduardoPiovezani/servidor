@@ -1,0 +1,5 @@
+AIzaSyDLJIJybNAXgna9lAG08kajyZkud613M4c
+
+Eduardo Signori Piovezani  I1dq7Mi3zqKKtvH9
+
+mongodb+srv://EduardoSignoriPiovezani:I1dq7Mi3zqKKtvH9@cluster0.abxrc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
